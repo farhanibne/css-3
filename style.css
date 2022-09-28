@@ -1,0 +1,22 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+/*       background: black; */
+/*       text-align: center; */
+      outline: none;
+    }
+
+
+
+    #world {
+      width: 100%;
+      height: 100vh;
+			      background: black;
+    }
+
+canvas {
+	    left: calc(50% - 325px);
+    position: absolute;
+
+}
